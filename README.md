@@ -1,4 +1,4 @@
-# 🕵️‍♂️ WhistleBlower – Anonymous Reporting Smart Contract
+# WhistleBlower – Anonymous Reporting Smart Contract
 
 > **A decentralized and transparent whistleblowing channel** built on Solidity.  
 > Enables users to submit tamper-proof reports via IPFS while keeping their identities pseudo-anonymous on-chain.
