@@ -1,5 +1,3 @@
-# 🕵️‍♂️ WhistleBlower
-
 # WhistleBlower – Anonymous Reporting Smart Contract
 
 > **A decentralized and transparent whistleblowing channel** built on Solidity.  
