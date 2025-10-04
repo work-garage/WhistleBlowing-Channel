@@ -1,4 +1,4 @@
-# WhistleBlower
+# 🕵️‍♂️ WhistleBlower
 
 # WhistleBlower – Anonymous Reporting Smart Contract
 
